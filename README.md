@@ -8,9 +8,9 @@ With your mouse, you choose the direction you are facing and where your flashlig
 
  TODO:
  
- Enemies' AI with a simple markov chain and A*
- exit emitting a glow
- 3d sound 
- better collisions
- gun maybe?
+ * Enemies' AI with a simple markov chain and A*
+ * exit emitting a glow
+ * 3d sound 
+ * better collisions
+ * gun maybe?
 
